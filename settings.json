@@ -1,40 +1,27 @@
 {
-	"workbench.colorTheme": "Default High Contrast",
-	"workbench.iconTheme": "material-icon-theme",
-	"terminal.integrated.defaultProfile.windows": "Command Prompt",
-	"bracket-pair-colorizer-2.depreciation-notice": false,
-	"editor.inlineSuggest.enabled": true,
-	"emmet.includeLanguages": {
-		"javascript": "javascriptreact"
-	},
-	"github.copilot.enable": {
-		"*": false,
-		"yaml": false,
-		"plaintext": false,
-		"markdown": false,
-		"typescript": false,
-		"typescriptreact": false,
-		"blade": false
-	},
-	"editor.minimap.enabled": false,
-	"prettier.jsxSingleQuote": true,
-	"prettier.singleQuote": true,
-	"javascript.updateImportsOnFileMove.enabled": "always",
-	"editor.formatOnPaste": true,
-	"editor.formatOnSave": true,
-	"editor.defaultFormatter": "esbenp.prettier-vscode",
-	"[javascript]": {
-		"editor.defaultFormatter": "esbenp.prettier-vscode"
-	},
-	"editor.cursorBlinking": "expand",
-	"prettier.enableDebugLogs": true,
-	"prettier.jsxBracketSameLine": true,
-	"prettier.printWidth": 50,
-	"prettier.tabWidth": 4,
-	"prettier.semi": true,
-	"prettier.proseWrap": "always",
-	"prettier.trailingComma": "es5",
-	"[typescriptreact]": {
-		"editor.defaultFormatter": "vscode.typescript-language-features"
-	}
+  "workbench.colorTheme": "Default High Contrast",
+  "workbench.iconTheme": "material-icon-theme",
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "editor.inlineSuggest.enabled": true,
+  "terminal.integrated.fontSize": 13,
+  "github.copilot.enable": {
+    "*": false,
+    "yaml": false,
+    "plaintext": false,
+    "markdown": false,
+    "typescript": false,
+    "typescriptreact": false,
+    "blade": false
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.cursorBlinking": "expand",
+  "editor.formatOnSave": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true
 }
